@@ -10,10 +10,10 @@ We use this file to practise collaborating with each other on GitHub :tada: Add 
 4. Roberta 
 5. Rhiannon Owen :cherry_blossom:
 6. Seb Stannard 
-7.
+7. 
 8.
 9.
-10.
+10. Emilia Holland
 11.
 12.
 13.
